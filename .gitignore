@@ -6,16 +6,10 @@
 *.suo
 *.exe
 *.cache
+*.xml
 
 #제외폴더리스트
 .vs/
-Debug/
 packages/
 Release/
-bin/
 obj/
-
-
-#포함파일리스트
-!dicmgate/bin/Debug/Server.ini
-!dicmgate/bin/Debug/Optimums.DICOM07.dll
